@@ -1,13 +1,7 @@
-name: Jacky Zhao
+name: Jethoof
 enableToc: true
 enableLinkPreview: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  This is my second brain on the web and share what I have learned with everyone on the web. 
 page_title:
-  "🪴 Quartz 3.1"
-links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  "Jethoof's Sandbox"
