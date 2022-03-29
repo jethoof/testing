@@ -1,5 +1,6 @@
 ---
 title: 🪴 Quartz 3.1
+tags: testinggrounds, 
 ---
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
 1. Extremely fast full-text search by pressing `/`
@@ -17,11 +18,11 @@ Not convinced yet? Look at some [community digital gardens](notes/showcase.md) b
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-- [All Notes](/notes)
+- [All Notes](notes/notes.md)
 - [Setup-related Notes](/tags/setup)
 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-- [_This is a Test Page](_This%20is%20a%20Test%20Page.md) 
+- [_This is a Test Page](notes/_This%20is%20a%20Test%20Page.md) 
