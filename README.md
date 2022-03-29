@@ -13,4 +13,4 @@ Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gard
 
 🔗 Get Started: https://quartz.jzhao.xyz/
 
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
+![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot* 2222
