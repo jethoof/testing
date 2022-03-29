@@ -1,5 +1,5 @@
 ---
-title "Map of Content"
+title: "Map of Content"
 tags:
 ---
 
