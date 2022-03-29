@@ -1,6 +1,6 @@
 ---
 title: "Map of Content"
-tags:
+tags: moc
 ---
 
 Would you even show up?
