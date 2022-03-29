@@ -24,4 +24,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-- [This is a Test Page](This%20is%20a%20Test%20Page.md) 
+- [_This is a Test Page](_This%20is%20a%20Test%20Page.md) 
