@@ -1,9 +1,9 @@
 ---
 title: "This is a Test Page"
 tags: 
-	- testinggrounds
-	- weird
-	- random
+- testinggrounds
+- weird
+- random
 ---
 working on it
 
