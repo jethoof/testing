@@ -1,5 +1,5 @@
 ---
 title: "{{title}}"
-status: 🌱🪴🍇
+status: 🌱🪴🌲🍇
 tags:
 ---
