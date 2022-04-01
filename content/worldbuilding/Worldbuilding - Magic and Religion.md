@@ -14,4 +14,3 @@ Magic might be perceived as mysticism or different from divine power from deitie
 		- How are religious groups justify use of their magic?
 - How does a religious faction view magic?
 	- Is it acceptable for religious person to use magic?
-- 
