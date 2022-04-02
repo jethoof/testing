@@ -13,9 +13,8 @@ I am going to follow [Story Genius by Lisa Cron](https://www.amazon.ca/Story-Gen
 ## Goals
 | Project      | Description            | Word Goal |
 | ------------ | ---------------------- | --------- |
-| Scene 1      | something will happen  | 1300      |
-| Scene 2      |                        | 1300      |
-| Scene 3      |                        | 1300      |
+| Scene 1      | something will happen  | 2000    |
+| Scene 2      |                        | 2000      |
 | Background 1 | Character background 1 | 1500      |
 | Background 2 | Character background 2 | 1500      |
 | Background 3 | Character background 3 | 1500      |
@@ -24,7 +23,7 @@ I am going to follow [Story Genius by Lisa Cron](https://www.amazon.ca/Story-Gen
 Note that not all word counts goes towards my final goal as they can be drafts, 
 | Day | Activity                                                                     | Words |
 | --- | ---------------------------------------------------------------------------- | ----- |
-| 1   | [[Brainstorm]]                                                               |       |
+| 1   | [Brainstorm](nanowrimo/202204/Brainstorm.md)                                 | 217      |
 | 1   | [nanowrimo 20220401prompt1](nanowrimo/202204/nanowrimo%2020220401prompt1.md) | 191   |
 | 1   | [nanowrimo 20220401prompt2](nanowrimo/202204/nanowrimo%2020220401prompt2.md) | 271   |
-| 1   | [nanowrimo20220401prompt3](nanowrimo/202204/nanowrimo20220401prompt3.md)     | 405      |
+| 1   | [nanowrimo20220401prompt3](nanowrimo/202204/nanowrimo20220401prompt3.md)     | 405   |
