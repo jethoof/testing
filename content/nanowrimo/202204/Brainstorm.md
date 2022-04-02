@@ -3,7 +3,7 @@ title: "Brainstorm"
 status: 🌲
 tags:
 - moc
-words: 217 
+words: 81 
 ---
 
 ## Goal

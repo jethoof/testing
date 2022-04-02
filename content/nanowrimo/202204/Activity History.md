@@ -5,6 +5,6 @@ words:
 tags:
 ---
 ```ActivityHistory
-nanowrimo/202204
+/
 
 ```
