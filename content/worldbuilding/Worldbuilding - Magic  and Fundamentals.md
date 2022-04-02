@@ -1,5 +1,5 @@
 ---
-title: "Rules of Magic"
+title: "Magic and Fundamentals"
 status: 🌱
 tags:
 - worldbuilding
