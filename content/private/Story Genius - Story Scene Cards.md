@@ -16,3 +16,4 @@ Subplot:
 | ---------- | -------------- | --------------- |
 | **The Plot**   | What happens   | The consequence |
 | **[[private/Story Genius - Third Rail]]** | Why it matters | The realization / And so?  |
+

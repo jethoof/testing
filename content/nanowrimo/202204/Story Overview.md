@@ -1,8 +1,8 @@
 ---
 title: "Story Overview"
 status: 🌱🪴🌲🍇
-words:
+words: 75
 tags:
 - outline
 ---
-Ben finds himself his passage back to his hometown has been blocked due to the war and now he's trying to assess whether the strangers entered the pub is trustworthy enough to travel together to ensure his safe travel back home. 
+Ben finally struck some luck with some trades in a remote hamlet and planning to head back to his home town, however he hears a news a war has broken out and now he cannot go back the way he came from. what he now has to do is to convince the other group of travelers to take him in to go to the opposite direction to keep himself getting caught up by the war.
