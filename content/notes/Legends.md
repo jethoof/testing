@@ -7,7 +7,7 @@ This is soon to be my growing list of [YAML](https://en.wikipedia.org/wiki/YAML)
 ___
 ## Status
 - 🌱- seedling - an idea that I just have for now, who knows where this will grow into. 
-- 🪴- growing plant - some research and thoughts has been injected into some of the 🌱 for more refined idea
+- 🪴- growing plant - some research thoughts has been injected into some of the 🌱 for more refined idea
 - 🔆 - sunshine - resources for my plants to grow.
 - 🌲 - evergreen - a set of 🪴 before bearing 🍇
 - 🍇- fruit - crosspollination of several🪴to bear fruit.
